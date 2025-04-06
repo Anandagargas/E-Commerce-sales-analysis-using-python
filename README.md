@@ -73,3 +73,10 @@ cd e-commerce-sales-analysis
 pip install pandas numpy matplotlib seaborn plotly jupyter
 
 jupyter notebook
+```
+
+## Project Structure
+
+├── README.me
+├── Sample - Superstore.csv
+├── e commerce sales.ipynb
