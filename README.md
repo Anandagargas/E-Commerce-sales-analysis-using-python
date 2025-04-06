@@ -51,8 +51,7 @@ The dataset used is a sample of a Superstore’s sales data.
 - Line Charts
 - Heatmaps
 - Scatter Plots
-- Choropleth Maps
-
+  
 ---
 
 ## Insights & Recommendations
