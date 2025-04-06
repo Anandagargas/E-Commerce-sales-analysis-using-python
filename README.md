@@ -77,6 +77,8 @@ jupyter notebook
 
 ## Project Structure
 
-├── README.me
-├── Sample - Superstore.csv
-├── e commerce sales.ipynb
+├──  README.me
+
+├──  Sample - Superstore.csv
+
+├──  e commerce sales.ipynb
