@@ -43,7 +43,6 @@ The dataset used is a sample of a Superstore’s sales data.
 4. Which region has the highest number of orders?
 5. Top 10 most profitable products.
 6. What is the correlation between Discount and Profit?
-7. State-wise Sales & Profit Analysis using Map Visualization.
 
 ---
 
